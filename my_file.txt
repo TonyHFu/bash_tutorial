@@ -1,4 +1,4 @@
-Pikachu	Electric	none
+pikachu	Electric	none
 Bulbasaur	Grass	Poison
 Charmander	Fire	none
 Squirtle	Water	none
